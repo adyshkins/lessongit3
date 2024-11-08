@@ -5,7 +5,8 @@ import (
 )
 
 var name = "Sergei"
+var name2 = "Oleg"
 
 func main() {
-	fmt.Println(name)
+	fmt.Println("Привет,", name, "и", name2)
 }
